@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Frontend Stack**
 - 👋 `Stay Young, Be Innovative and Keep Learning`
 
-### My tools and Tech stack
+### My Tools and Tech Stack
 
 <p>
     <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-squarefor-the-badge&logo=html5&logoColor=white"/> 
@@ -44,21 +44,22 @@ Here are some ideas to get you started:
     <img alt="Github" src="https://img.shields.io/badge/-Github-2088FF?style=flat-square&logo=github&logoColor=white" />
     <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+    <img src="https://img.shields.io/badge/IDE-VScode-blue?&logo=visual%20studio%20code&logoColor=blue" />
+    <img src="https://gpvc.arturio.dev/pardana" />
 </p>
 
 ### Let's connect!
 
 <p align="left">
-    <a href="https://twitter.com/appardana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="appardana Aditria Pardana" height="30" width="30" /></a>
-    <a href="https://linkedin.com/in/aditria-pardana-b846a9121/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Aditria Pardana" height="30" width="30" /></a>
-    <!-- <a href="https://fb.com/chandra.perdiansyah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="chandraperdiansyah" height="30" width="30" /></a> -->
-    <a href="https://instagram.com/appardana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="appardana Aditria Pardana" height="30" width="30" /></a>  
+    <!-- <a href="https://bagusfe.id" target="blank"><img src="https://img.shields.io/badge/Website-https://bagusfe.com-green?" /></a> -->
+    <a href="https://linkedin.com/in/aditria-pardana-b846a9121/" target="blank"><img src="https://img.shields.io/badge/Aditria Pardana-30302f?style=flat&logo=linkedin" /></a>
+    <a href="https://instagram.com/appardana" target="blank"><img src="https://img.shields.io/badge/appardana-30302f?style=flat&logo=instagram" /></a>
+    <a href="https://twitter.com/appardana" target="blank"><img src="https://img.shields.io/badge/appardana-30302f?style=flat&logo=twitter" /></a>
 </p>
 
 ### My Github Stats:
 
 <p>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pardana&show_icons=true&hide=css,html&theme=vue-dark&border_radius=15">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pardana&show_icons=true&theme=vue-dark&border_radius=15 " alt="appardana Aditria Pardana" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pardana&layout=compact" height=180 /><br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=pardana&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
 </p>

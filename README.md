@@ -52,9 +52,9 @@ Here are some ideas to get you started:
 
 <p align="left">
     <!-- <a href="https://bagusfe.id" target="blank"><img src="https://img.shields.io/badge/Website-https://bagusfe.com-green?" /></a> -->
-    <a href="https://linkedin.com/in/aditria-pardana-b846a9121/" target="blank"><img src="https://img.shields.io/badge/Aditria Pardana-30302f?style=flat&logo=linkedin" /></a>
     <a href="https://instagram.com/appardana" target="blank"><img src="https://img.shields.io/badge/appardana-30302f?style=flat&logo=instagram" /></a>
     <a href="https://twitter.com/appardana" target="blank"><img src="https://img.shields.io/badge/appardana-30302f?style=flat&logo=twitter" /></a>
+    <a href="https://linkedin.com/in/aditria-pardana-b846a9121/" target="blank"><img src="https://img.shields.io/badge/Aditria Pardana-30302f?style=flat&logo=linkedin" /></a>
 </p>
 
 ### My Github Stats:

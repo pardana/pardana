@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Want know about me? here it is
+## Want know about me? here it is
 
 - 🌱 I’m currently learning **Frontend (MERN)**
 - 📫 How to reach me **aditria.pardana20@gmail.com**
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Frontend Stack**
 - 👋 `Stay Young, Be Innovative and Keep Learning`
 
-### My Tools and Tech Stack
+## Tools and Tech Stack
 
 <p>
     <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-squarefor-the-badge&logo=html5&logoColor=white"/> 
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
     <img src="https://gpvc.arturio.dev/pardana" />
 </p>
 
-### Let's connect!
+## Let's connect!
 
 <p align="left">
     <!-- <a href="https://bagusfe.id" target="blank"><img src="https://img.shields.io/badge/Website-https://bagusfe.com-green?" /></a> -->
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
     <a href="https://linkedin.com/in/aditria-pardana-b846a9121/" target="blank"><img src="https://img.shields.io/badge/Aditria Pardana-30302f?style=flat&logo=linkedin" /></a>
 </p>
 
-### My Github Stats:
+## Github Stats:
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pardana&layout=compact" height=180 /><br/>

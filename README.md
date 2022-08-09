@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 -->
 
 ## Want know about me? here it is
-
 - 🌱 I’m currently learning **Frontend (MERN)**
 - 📫 How to reach me **aditria.pardana20@gmail.com**
 - ⚡ Fun fact on me **Futsal Players**
@@ -27,7 +26,6 @@ Here are some ideas to get you started:
 - 👋 `Stay Young, Be Innovative and Keep Learning`
 
 ## Tools and Tech Stack
-
 <p>
     <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-squarefor-the-badge&logo=html5&logoColor=white"/> 
     <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-squarefor-the-badge&logo=css3&logoColor=white"/>
@@ -49,7 +47,6 @@ Here are some ideas to get you started:
 </p>
 
 ## Let's connect!
-
 <p align="left">
     <!-- <a href="https://bagusfe.id" target="blank"><img src="https://img.shields.io/badge/Website-https://bagusfe.com-green?" /></a> -->
     <a href="https://instagram.com/appardana" target="blank"><img src="https://img.shields.io/badge/appardana-30302f?style=flat&logo=instagram" /></a>
@@ -58,7 +55,6 @@ Here are some ideas to get you started:
 </p>
 
 ## Github Stats:
-
 <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pardana&layout=compact" height=180/>
     <img src="https://github-readme-stats.vercel.app/api?username=pardana&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" height=180/>

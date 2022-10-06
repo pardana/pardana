@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ## Want know about me? here it is
-- 🌱 I’m currently learning **Frontend (MERN)**
+- 🌱 I’m currently learning **Frontend React JS**
 - 📫 How to reach me **aditria.pardana20@gmail.com**
 - ⚡ Fun fact on me **Futsal Players**
 - 💬 Ask me about **Frontend Stack**

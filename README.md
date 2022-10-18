@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-squarefor-the-badge&logo=css3&logoColor=white"/>
     <img alt="SCSS" src="https://img.shields.io/badge/Sass-CC6699?style=flat-squarefor-the-badge&logo=sass&logoColor=white"/>
     <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-squarefor-the-badge&logo=tailwind-css&logoColor=white"/>
-     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
     <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&for-the-badge&logo=javascript&logoColor=F7DF1"/>
     <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-squarefor-the-badge&logo=react&logoColor=61DAFB"/>
     <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
@@ -47,7 +47,8 @@ Here are some ideas to get you started:
 
 ## Let's connect!
 <p align="left">
-    <!-- <a href="https://bagusfe.id" target="blank"><img src="https://img.shields.io/badge/Website-https://bagusfe.com-green?" /></a> -->
+    <!-- <a href="https://appardana.com/" target="blank"><img src="https://img.shields.io/badge/appardana.com-30302f?style=flat"&logo=instagram /></a> -->
+    <a href="https://appardana.com/" target="blank"><img src="https://img.shields.io/badge/appardana.com-30302f?style=flat&logo=appveyor" /></a>
     <a href="https://instagram.com/appardana" target="blank"><img src="https://img.shields.io/badge/appardana-30302f?style=flat&logo=instagram" /></a>
     <a href="https://twitter.com/appardana" target="blank"><img src="https://img.shields.io/badge/appardana-30302f?style=flat&logo=twitter" /></a>
     <a href="https://linkedin.com/in/aditria-pardana-b846a9121/" target="blank"><img src="https://img.shields.io/badge/Aditria Pardana-30302f?style=flat&logo=linkedin" /></a>

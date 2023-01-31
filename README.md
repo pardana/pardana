@@ -1,7 +1,7 @@
 <h1 align="center" >
-    Hola, A. Pardana Here!
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="50" style='!important; object-fit:contain'> 
-    </h1>
+    Hola, A. Pardana Here!    
+</h1>
 
 <!--
 **pardana/pardana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -57,5 +57,6 @@ Here are some ideas to get you started:
 ## Github Stats:
 <p>
     <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pardana&layout=compact" height=180/>-->
-    <img src="https://github-readme-stats.vercel.app/api?username=pardana&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" height=180/>
+    <!--<img src="https://github-readme-stats.vercel.app/api?username=pardana&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" height=180/>-->
+    <img src="https://github-readme-stats-three-opal-17.vercel.app/api?username=pardana&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" height=180/>
 </p>

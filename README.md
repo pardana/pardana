@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Want know about me? here it is
-- 🌱 I’m currently learning **Frontend React JS**
+## About me
+- 🌱 I’m currently learning **React Dev**
 - ⚡ Fun fact on me **Futsal Players**
 - 💬 Ask me about **Frontend Stack**
 - 👋 `Stay Young, Be Innovative and Keep Learning`
 - 📫 How to reach me **aditria.pardana20@gmail.com**
 
-## Tools and Tech Stack
+## Tech stack
 <p>
     <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-squarefor-the-badge&logo=html5&logoColor=white"/> 
     <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-squarefor-the-badge&logo=css3&logoColor=white"/>
@@ -54,8 +54,8 @@ Here are some ideas to get you started:
     <a href="https://linkedin.com/in/aditria-pardana-b846a9121/" target="blank"><img src="https://img.shields.io/badge/Aditria Pardana-30302f?style=flat&logo=linkedin" /></a>
 </p>
 
-## GitHub Stats:
+## GitHub stats:
 <p>
-    <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pardana&layout=compact" height=180/>-->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pardana&layout=compact" height=180/>
     <img src="https://github-readme-stats-three-opal-17.vercel.app/api?username=pardana&show_icons=true&theme=transparent"
 </p>

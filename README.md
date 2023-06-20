@@ -1,6 +1,6 @@
 <h1 align="center" >
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="50" style='!important; object-fit:contain'> 
-    Hola, Aditria Here!
+    Hola, Aditria Here!!
 </h1>
 
 <!--
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ## About me
-- 🌱 I’m currently learning **React Dev**
+- 🌱 I’m currently learning **ReactJS**
 - ⚡ Fun fact on me **Futsal Players**
 - 💬 Ask me about **Frontend Stack**
 - 👋 `Stay Young, Be Innovative and Keep Learning`

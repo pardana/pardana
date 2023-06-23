@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ## About me
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **React Dev**
 - ⚡ Fun fact on me **Futsal Players**
 - 💬 Ask me about **Frontend Stack**
 - 👋 `Stay Young, Be Innovative and Keep Learning`
@@ -57,5 +57,5 @@ Here are some ideas to get you started:
 ## GitHub stats
 <p>
     <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pardana&layout=compact" height=180/>-->
-    <img src="[https://github-readme-stats-three-opal-17.vercel.app/api?username=pardana&show_icons=true&theme=transparent]"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=pardana&show_icons=true&theme=transparent"/>
 </p>

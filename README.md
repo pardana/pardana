@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **React Dev**
 - ⚡ Fun fact on me **Futsal Players**
 - 💬 Ask me about **Frontend Stack**
-- 👋 `Stay Young, Be a Pluralistic and Keep Learning`
+- 👋 `Stay Young, Be a Innovative and Keep Learning`
 - 📫 How to reach me **aditria.pardana20@gmail.com**
 
 ## Tech stack

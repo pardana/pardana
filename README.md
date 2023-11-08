@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 </p>
 
 ## GitHub stats
+![](https://komarev.com/ghpvc/?username=appardana&color=447ff7&label=Visitor+count)           
 <p>
     <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pardana&layout=compact" height=180/>-->
     <img src="https://github-readme-stats.vercel.app/api/?username=pardana&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>

@@ -1,6 +1,6 @@
 <h1 align="center" >
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="50" style='!important; object-fit:contain'> 
-    Hola, Aditria Here!
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" style='!important; object-fit:contain'> 
+    Hola, I'm Aditria Pardana!
 </h1>
 
 <!--
@@ -46,11 +46,11 @@ Here are some ideas to get you started:
 
 ## Let's connect!
 <p align="left">
-    <!-- <a href="https://appardana.com/" target="blank"><img src="https://img.shields.io/badge/appardana.com-30302f?style=flat"&logo=instagram /></a> -->
     <a href="https://appardana.com/" target="blank"><img src="https://img.shields.io/badge/appardana.com-30302f?style=flat&logo=appveyor" /></a>
     <a href="https://instagram.com/appardana" target="blank"><img src="https://img.shields.io/badge/appardana-30302f?style=flat&logo=instagram" /></a>
     <a href="https://twitter.com/appardana" target="blank"><img src="https://img.shields.io/badge/appardana-30302f?style=flat&logo=twitter" /></a>
     <a href="https://linkedin.com/in/aditria-pardana-b846a9121/" target="blank"><img src="https://img.shields.io/badge/Aditria Pardana-30302f?style=flat&logo=linkedin" /></a>
+    <a href="https://www.youtube.com/@iapptechid" target="blank"><img src="https://img.shields.io/badge/iAppTechid-30302f?style=flat&logo=youtube" /></a>
 </p>
 
 ## GitHub stats

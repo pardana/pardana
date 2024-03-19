@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 <p align="left">
     <a href="https://www.appardana.com" target="blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-F7B93E?style=flat-squarefor-the-badge&logo=appveyor&logoColor=white"/></a>
     <a href="https://www.instagram.com/appardana" target="blank"><img alt="instagram" src="https://img.shields.io/badge/Instagram-CC6699?style=flat-squarefor-the-badge&logo=instagram&logoColor=white"/></a>
-    <a href="https://www.twitter.com/apaprdana" target="blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1572B6?style=flat-squarefor-the-badge&logo=twitter&logoColor=white"/></a>
+    <a href="https://www.twitter.com/appardana" target="blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1572B6?style=flat-squarefor-the-badge&logo=twitter&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/aditria-pardana-b846a9121" target="blank"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-777BB4?style=flat-squarefor-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://www.dev.to/appardana" target="blank"><img alt="Linkedin" src="https://img.shields.io/badge/Dev.to-00000F?style=flat-squarefor-the-badge&logo=dev.to&logoColor=white"/></a>
-    <a href="https://www.medium.com/appardana" target="blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-43853D?style=flat-squarefor-the-badge&logo=medium&logoColor=white"/></a>
-    <a href="https://www.youtube.com/@iapptech" target="blank"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-CB3837?style=flat-squarefor-the-badge&logo=youtube&logoColor=white"/></a>
+    <a href="https://dev.to/appardana" target="blank"><img alt="Linkedin" src="https://img.shields.io/badge/Dev.to-00000F?style=flat-squarefor-the-badge&logo=dev.to&logoColor=white"/></a>
+    <a href="https://medium.com/appardana" target="blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-43853D?style=flat-squarefor-the-badge&logo=medium&logoColor=white"/></a>
+    <a href="https://www.youtube.com/@iapptechid" target="blank"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-CB3837?style=flat-squarefor-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
 ## 📊 GitHub stats

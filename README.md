@@ -18,36 +18,36 @@ Here are some ideas to get you started:
 -->
 
 ## About me
-- 💬 Ask me about **Frontend Stack**
+- ❓ Ask me about **Frontend Stack**
 - ⚡ Fun fact on me **Futsal Players**
 - 🌱 I’m currently learning [React Ecosystems](https://roadmap.sh/react)
-- 👋 `Stay Young, Be Innovative and Keep Learning`
-- 📫 How to reach me **aditria.pardana20@gmail.com**
 - 📃 My portfolio in [www.appardana.com](www.appardana.com)
+- 📫 How to reach me **aditria.pardana20@gmail.com**
+- 💬 `Stay Young, Be Innovative and Keep Learning`
 
 ## Tech stack
 <p>
     <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-squarefor-the-badge&logo=html5&logoColor=white"/> 
     <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-squarefor-the-badge&logo=css3&logoColor=white"/>
     <img alt="Javascript" src="https://img.shields.io/badge/Javascript-F7B93E?style=flat-square&for-the-badge&logo=javascript&logoColor=black"/>
-    <img alt="Typescript" src="https://img.shields.io/badge/Typescript-323330?style=flat-square&for-the-badge&logo=typescript&logoColor=F7DF1"/>
+    <img alt="Typescript" src="https://img.shields.io/badge/Typescript-00000F?style=flat-square&for-the-badge&logo=typescript&logoColor=F7DF1"/>
     <img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=flat-squarefor-the-badge&logo=sass&logoColor=white"/>
     <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-squarefor-the-badge&logo=tailwind-css&logoColor=white"/>
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
     <img alt="React" src="https://img.shields.io/badge/React JS-1572B6?style=flat-squarefor-the-badge&logo=react&logoColor=61DAFB"/>
-    <img alt="Next" src="https://img.shields.io/badge/Next JS-20232A?style=flat-squarefor-the-badge&logo=next.js&logoColor=61DAFB"/>
+    <img alt="Next" src="https://img.shields.io/badge/Next JS-00000F?style=flat-squarefor-the-badge&logo=next.js&logoColor=61DAFB"/>
     <img alt="Redux" src="https://img.shields.io/badge/Redux-CC6699?style=flat-squarefor-the-badge&logo=redux&logoColor=61DAFB"/>
     <img alt="Nodejs" src="https://img.shields.io/badge/Node JS-43853D?style=flat-square&logo=node.js&logoColor=white"/>
-    <img alt="Express" src="https://img.shields.io/badge/Express JS-323330?style=flat-square&logo=express&logoColor=white"/>
+    <img alt="Express" src="https://img.shields.io/badge/Express JS-00000F?style=flat-square&logo=express&logoColor=white"/>
     <img alt="Jest" src="https://img.shields.io/badge/Jest-1572B6?style=flat-square&logo=jest&logoColor=white"/>
     <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&for-the-badge&logo=php&logoColor=white"/>
     <img alt="Codeigniter" src="https://img.shields.io/badge/Codeigniter-F05032?style=flat-square&for-the-badge&logo=codeigniter&logoColor=white"/>
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-777BB4?style=flat-square&logo=mysql&logoColor=white"/>
-    <img alt="Prisma" src="https://img.shields.io/badge/Prisma-323330?style=flat-square&logo=prisma&logoColor=white"/>
+    <img alt="Prisma" src="https://img.shields.io/badge/Prisma-00000F?style=flat-square&logo=prisma&logoColor=white"/>
     <img alt="Docker" src="https://img.shields.io/badge/Docker-1572B6?style=flat-square&logo=docker&logoColor=white"/>
     <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-E34F26?style=flat-square&for-the-badge&logo=jenkins&logoColor=white"/>
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-F7B93E?style=flat-square&logo=firebase&logoColor=black"/>
-    <img alt="Vercel" src="https://img.shields.io/badge/Vercel-323330?style=flat-square&logo=vercel&logoColor=white"/>
+    <img alt="Vercel" src="https://img.shields.io/badge/Vercel-00000F?style=flat-square&logo=vercel&logoColor=white"/>
     <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
     <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-1572B6?style=flat-square&logo=photoshop&logoColor=white"/>
     <img alt="Coreldraw" src="https://img.shields.io/badge/Coreldraw-43853D?style=flat-square&logo=coreldraw&logoColor=white"/>
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
     <img alt="npm" src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
     <img alt="Prettier" src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" />
     <img alt="Codeium" src="https://img.shields.io/badge/Codeium-38B2AC?style=flat-square&logo=codeium&logoColor=white" />
-    <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-323330?style=flat-square&logo=openai&logoColor=white" />
+    <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-00000F?style=flat-square&logo=openai&logoColor=white" />
     <img alt="VScode" src="https://img.shields.io/badge/VScode-1572B6?style=flat-squarefor-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </p>
 

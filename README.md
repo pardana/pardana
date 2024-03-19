@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About me
+## 🙂 About me
 - ❓ Ask me about **Frontend Stack**
 - ⚡ Fun fact on me **Futsal Players**
 - 🌱 I’m currently learning [React Ecosystems](https://roadmap.sh/react)
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me **aditria.pardana20@gmail.com**
 - 💬 `Stay Young, Be Innovative and Keep Learning`
 
-## Tech stack
+## 💻 Tech stack
 <p>
     <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat-squarefor-the-badge&logo=html5&logoColor=white"/> 
     <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=flat-squarefor-the-badge&logo=css3&logoColor=white"/>
@@ -68,16 +68,18 @@ Here are some ideas to get you started:
     <img alt="VScode" src="https://img.shields.io/badge/VScode-1572B6?style=flat-squarefor-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </p>
 
-## Let's connect!
+## 📱 Let's connect!
 <p align="left">
-    <a href="https://appardana.com/" target="blank"><img src="https://img.shields.io/badge/appardana.com-30302f?style=flat&logo=appveyor" /></a>
-    <a href="https://instagram.com/appardana" target="blank"><img src="https://img.shields.io/badge/appardana-30302f?style=flat&logo=instagram" /></a>
-    <a href="https://twitter.com/appardana" target="blank"><img src="https://img.shields.io/badge/appardana-30302f?style=flat&logo=twitter" /></a>
-    <a href="https://linkedin.com/in/aditria-pardana-b846a9121/" target="blank"><img src="https://img.shields.io/badge/Aditria Pardana-30302f?style=flat&logo=linkedin" /></a>
-    <a href="https://www.youtube.com/@iapptechid" target="blank"><img src="https://img.shields.io/badge/iAppTechid-30302f?style=flat&logo=youtube" /></a>
+    <a href="https://www.appardana.com" target="blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-F7B93E?style=flat-squarefor-the-badge&logo=appveyor&logoColor=white"/></a>
+    <a href="https://www.instagram.com/appardana" target="blank"><img alt="instagram" src="https://img.shields.io/badge/Instagram-CC6699?style=flat-squarefor-the-badge&logo=instagram&logoColor=white"/></a>
+    <a href="https://www.twitter.com/apaprdana" target="blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1572B6?style=flat-squarefor-the-badge&logo=twitter&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/aditria-pardana-b846a9121" target="blank"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-777BB4?style=flat-squarefor-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.dev.to/appardana" target="blank"><img alt="Linkedin" src="https://img.shields.io/badge/Dev.to-00000F?style=flat-squarefor-the-badge&logo=dev.to&logoColor=white"/></a>
+    <a href="https://www.medium.com/appardana" target="blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-43853D?style=flat-squarefor-the-badge&logo=medium&logoColor=white"/></a>
+    <a href="https://www.youtube.com/@iapptech" target="blank"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-CB3837?style=flat-squarefor-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
-## GitHub stats
+## 📊 GitHub stats
 ![](https://komarev.com/ghpvc/?username=appardana&color=447ff7&label=Visitor+count)           
 <p>
     <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pardana&layout=compact" height=180/>-->

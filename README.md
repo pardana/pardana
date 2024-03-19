@@ -43,12 +43,12 @@ Here are some ideas to get you started:
     <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&for-the-badge&logo=php&logoColor=white"/>
     <img alt="Codeigniter" src="https://img.shields.io/badge/Codeigniter-F05032?style=flat-square&for-the-badge&logo=codeigniter&logoColor=white"/>
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-777BB4?style=flat-square&logo=mysql&logoColor=white"/>
-    <img alt="Prisma" src="https://img.shields.io/badge/Prisma-00000F?style=flat-square&logo=prisma&logoColor=white"/>
+    <img alt="Prisma" src="https://img.shields.io/badge/Prisma-323330?style=flat-square&logo=prisma&logoColor=white"/>
     <img alt="Docker" src="https://img.shields.io/badge/Docker-1572B6?style=flat-square&logo=docker&logoColor=white"/>
     <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-E34F26?style=flat-square&for-the-badge&logo=jenkins&logoColor=white"/>
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-F7B93E?style=flat-square&logo=firebase&logoColor=black"/>
+    <img alt="Vercel" src="https://img.shields.io/badge/Vercel-323330?style=flat-square&logo=vercel&logoColor=white"/>
     <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
-    <img alt="Vercel" src="https://img.shields.io/badge/Vercel-00000F?style=flat-square&logo=vercel&logoColor=white"/>
     <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-1572B6?style=flat-square&logo=photoshop&logoColor=white"/>
     <img alt="Coreldraw" src="https://img.shields.io/badge/Coreldraw-43853D?style=flat-square&logo=coreldraw&logoColor=white"/>
     <img alt="Lighroom" src="https://img.shields.io/badge/Lightroom-1572B6?style=flat-square&logo=lightroom&logoColor=white"/>

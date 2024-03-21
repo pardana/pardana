@@ -58,7 +58,7 @@ Here are some ideas to get you started:
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
     <img alt="Lighroom" src="https://img.shields.io/badge/Lightroom-1572B6?style=flat-square&logo=lightroom&logoColor=white"/>
     <img alt="Canva" src="https://img.shields.io/badge/Canva-CC6699?style=flat-square&logo=canva&logoColor=white"/>
-    <img alt="Figma" src="https://img.shields.io/badge/Figma-F7B93E?style=flat-square&logo=figma&logoColor=white"/>    
+    <img alt="Figma" src="https://img.shields.io/badge/Figma-F7B93E?style=flat-square&logo=figma&logoColor=black"/>    
     <img alt="Github" src="https://img.shields.io/badge/GitHub-2088FF?style=flat-square&logo=github&logoColor=white" />
     <img alt="Gitlab" src="https://img.shields.io/badge/GitLab-F05032?style=flat-square&logo=gitlab&logoColor=white" />
     <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />

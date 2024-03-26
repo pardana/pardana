@@ -1,5 +1,5 @@
 <h1 align="center" >
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" style='!important; object-fit:contain'> 
+    <!--<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" style='!important; object-fit:contain'>-->
     Hola, I'm Aditria!
 </h1>
 

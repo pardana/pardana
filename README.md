@@ -35,6 +35,7 @@ Here are some ideas to get you started:
     <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-squarefor-the-badge&logo=tailwind-css&logoColor=white"/>
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
     <img alt="React" src="https://img.shields.io/badge/React JS-1572B6?style=flat-squarefor-the-badge&logo=react&logoColor=61DAFB"/>
+    <img alt="ReactNative" src="https://img.shields.io/badge/React Native-777BB4?style=flat-squarefor-the-badge&logo=react&logoColor=61DAFB"/>
     <img alt="Next" src="https://img.shields.io/badge/Next JS-00000F?style=flat-squarefor-the-badge&logo=next.js&logoColor=61DAFB"/>
     <img alt="Redux" src="https://img.shields.io/badge/Redux-CC6699?style=flat-squarefor-the-badge&logo=redux&logoColor=61DAFB"/>
     <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-1572B6?style=flat-squarefor-the-badge&logo=wordpress&logoColor=61DAFB"/>

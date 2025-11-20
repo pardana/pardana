@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 -->
 
 ## 🙂 About me
-- ❓ Ask me about **Frontend Stack**
-- ⚡ Fun fact on me **Futsal Players**
-- 🌱 I’m currently learning [React Ecosystems](https://roadmap.sh/react)
+- 💻 MERN Stack
+- 📱 React Native
 - 📃 My portfolio in [www.appardana.com](www.appardana.com)
 - 📫 How to reach me **aditria.pardana20@gmail.com**
 - 💬 `Stay Young, Be Innovative and Keep Learning`
